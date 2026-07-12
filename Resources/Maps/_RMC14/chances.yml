@@ -4,8 +4,8 @@ meta:
   engineVersion: 264.0.2
   forkId: ""
   forkVersion: ""
-  time: 06/24/2026 15:32:11
-  entityCount: 30250
+  time: 07/12/2026 20:14:08
+  entityCount: 30251
 maps:
 - 1
 grids:
@@ -4830,6 +4830,7 @@ entities:
             887: 35,54
             898: 11,38
             956: -3,46
+            4725: -24,45
         - node:
             color: '#FFFFFFFF'
             id: RMCDecalBloodFloor4
@@ -112866,6 +112867,13 @@ entities:
     components:
     - type: Transform
       pos: -82.38755,5.786193
+      parent: 1
+- proto: RMCLaserDesignator
+  entities:
+  - uid: 30251
+    components:
+    - type: Transform
+      pos: -23.5,45.5
       parent: 1
 - proto: RMCLighter
   entities:
