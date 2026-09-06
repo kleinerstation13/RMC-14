@@ -1,17 +1,17 @@
 # Names inspired after police ranks
-# Differs from CM - Deputies are Officers, specialists in their field are Corporals/Sergeants, Riot Control unit leaders are Lieutenants, Marshals are Captains. CMB Synthetics are either ranked Detective/Corporal/Sergeant depending on their speciality
+# Differs from CM - Deputies stay the same, specialists in their field are Corporals/Sergeants, Riot Control unit leaders are Lieutenants, Marshals are Captains. CMB Synthetics are either ranked Detective/Corporal/Sergeant depending on their speciality
 
 # Deputy
 - type: rank
   id: RMCRankCMBDeputy
-  name: Officer
-  prefix: Off.
+  name: Deputy
+  prefix: Dep.
   paygrade: CMB
 
 - type: rank
   id: RMCRankCMBSeniorDeputy
-  name: Senior Officer
-  prefix: Sr. Off.
+  name: Senior Deputy
+  prefix: Sr. Dep.
   paygrade: CMB
 
 # Corporal (Specialists/Very senior deputies)

@@ -371,7 +371,7 @@ rmc-job-greeting-riot-in-progress-CMB-TL = You are a CMB Riot Control Team Leade
 
   You are [bold][color=#51A16C][font size=16]NON-HOSTILE to the UNMC![/font][/color][/bold]
 
-rmc-job-greeting-riot-in-progress-CMB = You are a CMB Riot Control Officer
+rmc-job-greeting-riot-in-progress-CMB = You are a CMB Riot Control Officer!
 
   You are aware of the xenonid threat.
 
